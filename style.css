@@ -1,5 +1,9 @@
 
 body {
-background-color: red;
+background-color: pink;
 margin: 5px;
+}
+p{
+    color:aqua;
+    font-size: 230px;
 }
