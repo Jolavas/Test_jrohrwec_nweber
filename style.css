@@ -3,8 +3,9 @@ body {
 background-color: pink;
 margin: 5px;
 }
-
-p {
-color: blue;
-font-size: 300px;
+:
+p{
+    color:aqua;
+    font-size: 230px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
