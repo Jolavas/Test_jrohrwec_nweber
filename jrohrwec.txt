@@ -1,4 +1,14 @@
 git clone https://github.com/Jolavas/Test_jrohrwec_nweber
 git config --global --add safe.directory '%(prefix)///acdc.ad.htl-steyr.ac.at/home/ITP3/Test_jrohrwec_nweber'
 touch jrohrwec.txt
+git add jrohrwec
+git commit -m "Textdatei erstellt"
 git push
+
+git pull
+echo "Johannes Rohrweck" >> README.md
+git add jrohrwec.txt
+git commit -m "Name hinzugefügt"
+git push
+
+
