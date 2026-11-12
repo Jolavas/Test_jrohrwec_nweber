@@ -1,0 +1,4 @@
+git clone https://github.com/Jolavas/Test_jrohrwec_nweber
+git config --global --add safe.directory '%(prefix)///acdc.ad.htl-steyr.ac.at/home/ITP3/Test_jrohrwec_nweber'
+touch jrohrwec.txt
+git push
